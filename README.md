@@ -11,4 +11,8 @@ Feel free to:
 
 Please do read through the other issues to see if something similar has not already been reported. If your bug has already been reported and you think you could explain that bug further, post a comment in that issue.
 
+Milestone usage:
+- Milestones are used to show what version the issue is in.
+- Not much else.
+
 Keep it clean, people. Use proper grammar, do not swear and be nice to eachother.
